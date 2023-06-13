@@ -1,7 +1,11 @@
-import './App.css'
 import { Banner } from './componets/Banner/Banner'
 import { Footer } from './componets/Footer/Footer'
 import { Navbar } from './componets/Navbar/Navbar'
+
+import './styles/normalize.css'
+import './styles/palettes.css'
+import './index.css'
+import './App.css'
 
 function App() {
   return (
